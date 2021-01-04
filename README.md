@@ -1,1 +1,1 @@
-# Web-pages-from-courses
+Homework web pages from SkillUP courses.

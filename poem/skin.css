@@ -1,0 +1,21 @@
+body {
+ background: cornsilk;
+ white-space: nowrap;
+ }
+table, td {
+ margin: 0 auto;
+ text-align: center;
+ }
+p {
+ font-family: serif;
+ }
+.yr {
+ font-size: 16pt;
+ }
+.hr {
+ font-size: 24pt;
+ }
+pre {
+ font-size: 12pt;
+ text-align: left;
+ }

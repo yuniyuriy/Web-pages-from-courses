@@ -9,6 +9,7 @@
   left: 0;
   height: 100%;
   width: 100%;
+  background-color: #333333;
   }
 .linkto {
   font-family: monospace;
@@ -16,16 +17,16 @@
   font-variant: small-caps;
 }
 a {
-	color: red;
+	color: #dddddd;
 	text-decoration: none;
    }
 a:hover {
-	color: orange;
+	color: #ffffff;
    }
 a:active {
-	color: black;
-	background-color: orange;
+	color: #000000;
+	background-color: #ffffff;
    }
 a:visited {
-	color: gray;
+	color: #555555;
    }

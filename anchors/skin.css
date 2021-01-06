@@ -1,0 +1,36 @@
+body {
+	scroll-behavior: smooth;
+	background-color: ivory;
+	}
+table, img {
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	}
+span {
+	vertical-align: super;
+	}
+.inf {
+	font-family: serif;
+	font-size: 48pt;
+	height: 450px;
+	}
+.pl {
+	height: 1000px;
+	color: blue;
+	font-size: 24pt;
+	}
+a {
+	color: red;
+	text-decoration: none;
+   }
+a:hover {
+	color: orange;
+   }
+a:active {
+	color: black;
+	background-color: orange;
+   }
+a:visited {
+	color: gray;
+   }

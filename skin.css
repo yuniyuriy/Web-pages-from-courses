@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  }
+.linkto {
+  font-family: monospace;
+  font-size: 24px;
+  font-variant: small-caps;
+}
+a {
+	color: red;
+	text-decoration: none;
+   }
+a:hover {
+	color: orange;
+   }
+a:active {
+	color: black;
+	background-color: orange;
+   }
+a:visited {
+	color: gray;
+   }
